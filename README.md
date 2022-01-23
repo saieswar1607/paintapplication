@@ -154,8 +154,7 @@ function myClickEvent(e){
 ~~~
 
 ## OUTPUT:
-
-![](canva.png)
+![output](canvas.png)
 
 ## Result:
 
